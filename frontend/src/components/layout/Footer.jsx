@@ -92,7 +92,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-sky-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-sky-400">
-          <p>&copy; 2025 TaxNex. All rights reserved.</p>
+          <p>&copy; 2026 TaxNex. All rights reserved.</p>
           <div className="flex gap-6">
             <Link to="#" className="hover:text-gold-500 transition-colors">Privacy Policy</Link>
             <Link to="#" className="hover:text-gold-500 transition-colors">Terms of Use</Link>
